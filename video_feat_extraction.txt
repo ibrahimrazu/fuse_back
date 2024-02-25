@@ -1,1 +1,9 @@
 https://colab.research.google.com/drive/1LKoytZmNxtC-EuCp7pHDM6sFvK1XdwlW?usp=sharing
+
+
+Paper links:
+https://github.com/MengyuanChen21/ECCV2022-DELU
+https://github.com/MengyuanChen21/CVPR2022-FTCL
+
+https://github.com/Pilhyeon/Awesome-Weakly-Supervised-Temporal-Action-Localization#1056
+https://github.com/Pilhyeon/Awesome-Weakly-Supervised-Temporal-Action-Localization
