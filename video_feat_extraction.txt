@@ -7,3 +7,9 @@ https://github.com/MengyuanChen21/CVPR2022-FTCL
 
 https://github.com/Pilhyeon/Awesome-Weakly-Supervised-Temporal-Action-Localization#1056
 https://github.com/Pilhyeon/Awesome-Weakly-Supervised-Temporal-Action-Localization
+https://github.com/xlliu7/TadTR
+
+
+recommendation engines:
+https://github.com/shenweichen/DeepCTR
+https://github.com/recommenders-team/recommenders
