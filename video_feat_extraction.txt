@@ -13,3 +13,8 @@ https://github.com/xlliu7/TadTR
 recommendation engines:
 https://github.com/shenweichen/DeepCTR
 https://github.com/recommenders-team/recommenders
+
+
+
+NLP recommendations:
+https://www.algolia.com/blog/ai/the-past-present-and-future-of-semantic-search/
